@@ -716,7 +716,7 @@
       "description": "Input text kind.",
       "enum": [
         "PlainText",
-        "SSML"
+        "Ssml"
       ],
       "type": "string",
       "x-ms-enum": {
